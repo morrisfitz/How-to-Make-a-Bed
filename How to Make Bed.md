@@ -16,7 +16,7 @@ To make a bed you will need, at a minimum, the following items:
 * 1 fitted sheet or flat sheet
 * 2 pillows
 * 2 pillow covers
-* 1 mattress protector **(Optional^1^)**
+* 1 mattress protector **(Optional{1})**
 * 1 top sheet
 
 ```
@@ -34,12 +34,12 @@ Instructions:
 - b.Pull the fastener towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
 - c.Repeat steps a and b for each fastener.
 
-2) Retrieve the fitted sheet or flat sheet.
-- a.Hold one of the four corners of the sheet.
-- b.Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
-- c.Repeat steps a and b for each of the other corners.
+2) .._Step 2: Retrieve the fitted sheet or flat sheet.
+   - a.Hold one of the four corners of the sheet.
+   - b.Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
+   - c.Repeat steps a and b for each of the other corners.
 
-3) Obtain the top sheet and repeat the tasks outlined in step 2 for the top sheet. 
+3) Obtain the top sheet and repeat the tasks outlined in :ref:`step 2` for the top sheet. 
     If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
 
 4) Locate the duvet and the duvet cover to enable you to make the fitted 	  duvet. 
