@@ -16,7 +16,7 @@ To make a bed you will need, at a minimum, the following items:
 * 1 fitted sheet or flat sheet
 * 2 pillows
 * 2 pillow covers
-* 1 mattress protector **(Optional[^1])**
+* 1 mattress protector **(Optional)**
 * 1 top sheet
 
 ```
@@ -71,7 +71,7 @@ Congradulations on achieving your goal! You have succesfully made your bed.
 ```
 Author Name: Darragh Fitzmaurice
 
-Questions? Comments? Feel free to send me email, simply click the following link:[mailto](mailto:morrisfitz@hotmail.com)
+Questions? Comments? Feel free to send me email, simply click the following link: [GitHub](https://github.com/settings/profile)
 ```
 
 
