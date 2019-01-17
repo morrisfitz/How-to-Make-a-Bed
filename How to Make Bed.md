@@ -28,33 +28,32 @@ Only when all prerequisites are satfisfied may you proceed with the following in
 Instructions:
 -------------
 
-1) Obtain the mattress protector and place the side with the 
-	manufacturer's tag down onto the mattress. 
+1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
 - a.Hold one of the four fasteners of the mattress protector.
 - b.Pull the fastener towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
 - c.Repeat steps a and b for each fastener.
 
-2) .._Step 2: Retrieve the fitted sheet or flat sheet.
+2) Retrieve the fitted sheet or flat sheet.
    - a.Hold one of the four corners of the sheet.
    - b.Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
    - c.Repeat steps a and b for each of the other corners.
 
-3) Obtain the top sheet and repeat the tasks outlined in :ref:`step 2` for the top sheet. 
+3) Obtain the top sheet and repeat the tasks outlined in :ref:`step 2<2>` for the top sheet. 
     If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
 
-4) Locate the duvet and the duvet cover to enable you to make the fitted 	  duvet. 
+4) Locate the duvet and the duvet cover to enable you to make the fitted duvet. 
 - a. Place the duvet into the duvet cover.
 - b. Push each corner of the duvet into its matching corner of the duvet cover. 
 - c. Align the bottom of the duvet so that it does not hang outside the bottom of the duvet cover.
 - d. Fasten each button of the duvet cover taking care not to skip any of the buttons.
 
-5) Place the sealed-button end of the fitted duvet towards the bottom 		of the mattress.
+5) Place the sealed-button end of the fitted duvet towards the bottom of the mattress.
 - a. Check that the duvet overhangs evenly between the left and right side of the mattress. 
 - b. Move the bottom of the duvet downwards to enable a 6-inch gap to form from the top of the duvet to the head of the bed.
 - c. Remove any creases similiar to the actions outlined in step 3. 
 
 
-6) Take the edge of the top sheet at the top of the bed and neatly fold 	 it over the top-edge of the fitted duvet. 
+6) Take the edge of the top sheet at the top of the bed and neatly fold it over the top-edge of the fitted duvet. 
 
 7) Retrieve the two pillows and two pillow covers.
 - a. Acquire the first pillow and place it into one of the pillow cases.
@@ -62,7 +61,7 @@ Instructions:
 - c. Fluff the fitted pillow to evenly distribute the pillow contents. 
 - d. Repeat steps a - c for the second pillow and the remaining pillow case. 
 
-8) Complete the action of making the bed by laying each pillow flat on 	  	 the head of the bed; this fills the gap created between the top of the fitted duvet and the headboard of the bed. 
+8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between the top of the fitted duvet and the headboard of the bed. 
 
 Conclusion:
 -----------
@@ -70,9 +69,9 @@ Conclusion:
 Congradulations on achieving your goal! You have succesfully made your bed.
 
 ```
-*Author Name: Darragh Fitzmaurice*
+_Author Name: Darragh Fitzmaurice_
 
-*Questions? Comments? Feel free to send me email, simply click the following link:* [mailto](mailto:morrisfitz@hotmail.com)
+_Questions? Comments? Feel free to send me email, simply click the following link:_ [mailto](mailto:morrisfitz@hotmail.com)
 ```
 
 
