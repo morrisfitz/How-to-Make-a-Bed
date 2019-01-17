@@ -65,7 +65,7 @@ Instructions:
 Conclusion:
 -----------
 
-Congradulations on achieving your goal! You have succesfully made your bed.
+Congradulations on achieving your goal :trophy:! You have succesfully made your bed.
 
 Contact Details:
 -----------
