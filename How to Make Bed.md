@@ -68,10 +68,9 @@ Conclusion:
 
 Congradulations on achieving your goal! You have succesfully made your bed.
 
-```
 Author Name: Darragh Fitzmaurice
 
 Questions? Comments? Feel free to send me email, simply click the following link: [GitHub](https://github.com/settings/profile)
-```
+
 
 
