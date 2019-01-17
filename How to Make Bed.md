@@ -16,7 +16,7 @@ To make a bed you will need, at a minimum, the following items:
 * 1 fitted sheet or flat sheet
 * 2 pillows
 * 2 pillow covers
-* 1 mattress protector **(Optional{1})**
+* 1 mattress protector **(Optional[^1])**
 * 1 top sheet
 
 ```
@@ -29,7 +29,7 @@ Instructions:
 -------------
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
-#. a.Hold one of the four fasteners of the mattress protector.
+- a.Hold one of the four fasteners of the mattress protector.
 - b.Pull the fastener towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
 - c.Repeat steps a and b for each fastener.
 
