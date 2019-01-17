@@ -29,7 +29,7 @@ Instructions:
 -------------
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
-- a.Hold one of the four fasteners of the mattress protector.
+#. a.Hold one of the four fasteners of the mattress protector.
 - b.Pull the fastener towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
 - c.Repeat steps a and b for each fastener.
 
@@ -69,9 +69,9 @@ Conclusion:
 Congradulations on achieving your goal! You have succesfully made your bed.
 
 ```
-_Author Name: Darragh Fitzmaurice_
+Author Name: Darragh Fitzmaurice
 
-_Questions? Comments? Feel free to send me email, simply click the following link:_ [mailto](mailto:morrisfitz@hotmail.com)
+Questions? Comments? Feel free to send me email, simply click the following link:[mailto](mailto:morrisfitz@hotmail.com)
 ```
 
 
