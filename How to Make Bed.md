@@ -1,13 +1,10 @@
-How to Make a Bed
-=================
+#How to Make a Bed
 
-Purpose:
---------
+##Purpose:
 
 The purpose of this document is to provide you with instructions that will enable you to make a bed, regardless of the bed's dimensions. 
 
-Prerequisites:
---------------
+##Prerequisites:
 
 To make a bed you will need, at a minimum, the following items:
 * 1 bottom sheet 
@@ -25,8 +22,7 @@ Prior to making the bed ensure that you remove all bedding items from the mattre
 Only when all prerequisites are satfisfied may you proceed with the following instructions.
 ```
 
-Instructions:
--------------
+##Instructions:
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
 - a.Hold one of the four fasteners of the mattress protector.
@@ -34,9 +30,9 @@ Instructions:
 - c.Repeat steps a and b for each fastener.
 
 2) Retrieve the fitted sheet or flat sheet.
-   - a.Hold one of the four corners of the sheet.
-   - b.Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
-   - c.Repeat steps a and b for each of the other corners.
+  - a. Hold one of the four corners of the sheet.
+  - b. Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
+  - c. Repeat steps a and b for each of the other corners.
 
 3) Obtain the top sheet and repeat the tasks outlined in :ref:`step 2<2>` for the top sheet. 
     If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
@@ -63,14 +59,15 @@ Instructions:
 
 8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between the top of the fitted duvet and the headboard of the bed. 
 
-Conclusion:
------------
+##Conclusion:
 
 Congradulations on achieving your goal! You have succesfully made your bed.
 
+###Contact Me:
+
 Author Name: Darragh Fitzmaurice
 
-Questions? Comments? Feel free to send me email, simply click the following link: [GitHub](https://github.com/settings/profile)
+Questions? Comments? Feel free to send me an email, simply click the following link: [GitHub](https://github.com/settings/profile)
 
 
 
