@@ -1,4 +1,4 @@
-How to Make a Bed
+How to Make a Bed   ![GitHub Logo](/Downloads/github-logo.png)
 =================
 
 Purpose:
@@ -65,7 +65,7 @@ Instructions:
 Conclusion:
 -----------
 
-Congradulations on achieving your goal :trophy:! You have succesfully made your bed.
+Congratulations on achieving your goal :trophy:! You have succesfully made your bed.
 
 Contact Details:
 -----------
