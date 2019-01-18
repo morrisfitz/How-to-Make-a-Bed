@@ -6,7 +6,7 @@ Purpose:
 
 The purpose of this document is to provide you with instructions that will enable you to make a bed, regardless of the bed's dimensions. 
 
-Prerequisites:
+Prerequisites: <a name="Pre"></a>
 --------------
 
 To make a bed you will need, at a minimum, the following items:
@@ -28,7 +28,7 @@ Only when all prerequisites are satfisfied may you proceed with the following in
 Instructions:
 -------------
 
-Please note that step 1 is marked as optional [Prerequisities](#Prerequisities)
+Please note that step 1 is marked as optional [See Prerequisities](Pre)
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
    - a) Hold one of the four fasteners of the mattress protector.
