@@ -1,6 +1,6 @@
-How to Make a Bed    ![alt text] [logo] 
+How to Make a Bed   ![GitHub](/Downloads/github-logo.png "Cat") 
 =================
-[logo] https:Downloads/github-logo.png
+
 Purpose:
 --------
 
