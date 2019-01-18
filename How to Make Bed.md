@@ -6,9 +6,9 @@ Purpose:
 
 The purpose of this document is to provide you with instructions that will enable you to make a bed, regardless of the bed's dimensions. 
 
-Prerequisites: <a name="Pre"></a>
+Prerequisites: 
 --------------
-
+<a name="Pre"></a>
 To make a bed you will need, at a minimum, the following items:
 * 1 bottom sheet 
 * 1 duvet
@@ -74,7 +74,7 @@ Contact Details:
 
 > Author's Name: Darragh Fitzmaurice
 
-> Questions? Comments? Feel free to send me an email, simply click the following link: [GitHub](https://github.com/settings/profile)
+> Questions? Comments? Feel free to send visit my GitHub page and send me an email, simply click the following link: [GitHub](https://github.com/settings/profile)
 
 
 
