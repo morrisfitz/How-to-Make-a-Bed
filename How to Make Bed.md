@@ -5,7 +5,7 @@ Purpose:
 --------
 
 The purpose of this document is to provide you with instructions that will enable you to make a bed, regardless of the bed's dimensions. 
-
+<a name='Anchor1'></a>
 Prerequisites: 
 --------------
 To make a bed you will need, at a minimum, the following items:
@@ -27,7 +27,7 @@ Only when all prerequisites are satfisfied may you proceed with the following in
 Instructions:
 -------------
 
-Please note that step 1 is marked as optional [See Prerequisities](To make a bed you will need).
+Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
    - a) Hold one of the four fasteners of the mattress protector.
@@ -73,11 +73,11 @@ Contact Details:
 
 > Author's Name: Darragh Fitzmaurice
 
-> You can visit my GitHub pahe by clicking the following link: [GitHub](https://github.com/settings/profile).
+> You can visit my GitHub page by clicking the following link: [GitHub](https://github.com/settings/profile).
 
-Queries? Comments? Feel free to send me an email: [morrisfitz@hotmail.com](mailto:morrisfitz@hotmail.com)
+> Queries? Comments? Feel free to send me an email: [morrisfitz@hotmail.com](mailto:morrisfitz@hotmail.com).
 
-£link('mailto:morrisfitz@hotmail.com')->('email us');
+
 
 
 
