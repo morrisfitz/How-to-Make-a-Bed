@@ -5,9 +5,12 @@ Purpose:
 --------
 
 The purpose of this document is to provide you with instructions that will enable you to make a bed, regardless of the bed's dimensions. 
+
 <a name='Anchor1'></a>
+
 Prerequisites: 
 --------------
+
 To make a bed you will need, at a minimum, the following items:
 * 1 bottom sheet 
 * 1 duvet
