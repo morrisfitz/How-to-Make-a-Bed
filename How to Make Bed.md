@@ -8,7 +8,6 @@ The purpose of this document is to provide you with instructions that will enabl
 
 Prerequisites: 
 --------------
-<a name="Pre"></a>
 To make a bed you will need, at a minimum, the following items:
 * 1 bottom sheet 
 * 1 duvet
@@ -28,7 +27,7 @@ Only when all prerequisites are satfisfied may you proceed with the following in
 Instructions:
 -------------
 
-Please note that step 1 is marked as optional [See Prerequisities](Pre)
+Please note that step 1 is marked as optional [See Prerequisities](To make a bed you will need).
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
    - a) Hold one of the four fasteners of the mattress protector.
@@ -74,7 +73,7 @@ Contact Details:
 
 > Author's Name: Darragh Fitzmaurice
 
-> Questions? Comments? Feel free to send visit my GitHub page and send me an email, simply click the following link: [GitHub](https://github.com/settings/profile)
+> Questions? Comments? Feel free to send visit my GitHub page and send me an email, simply click the following link: [GitHub](https://github.com/settings/profile) and my email [mailto:morrisfitz@hotmail.com](morrisfitz@hotmail.com).
 
 
 
