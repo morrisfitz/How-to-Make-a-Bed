@@ -73,7 +73,11 @@ Contact Details:
 
 > Author's Name: Darragh Fitzmaurice
 
-> Questions? Comments? Feel free to send visit my GitHub page and send me an email, simply click the following link: [GitHub](https://github.com/settings/profile) and my email [mailto:morrisfitz@hotmail.com](morrisfitz@hotmail.com).
+> You can visit my GitHub pahe by clicking the following link: [GitHub](https://github.com/settings/profile).
+
+Queries? Comments? Feel free to send me an email: [morrisfitz@hotmail.com](mailto:morrisfitz@hotmail.com)
+
+£link('mailto:morrisfitz@hotmail.com')->('email us');
 
 
 
