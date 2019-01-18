@@ -1,4 +1,4 @@
-How to Make a Bed   ![GitHub](/file:///Users/testuser/Downloads/github-logo.png "Cat") 
+How to Make a Bed  
 =================
 
 Purpose:
@@ -27,6 +27,8 @@ Only when all prerequisites are satfisfied may you proceed with the following in
 
 Instructions:
 -------------
+
+Please note that step 1 is marked optional, [link](#See- Prerequisites)
 
 1) Obtain the mattress protector and place the side with the manufacturer tag down onto the mattress. 
    - a) Hold one of the four fasteners of the mattress protector.
