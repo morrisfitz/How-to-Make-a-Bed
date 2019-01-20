@@ -43,7 +43,7 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
     - c) Repeat steps a and b for each of the other corners.
 
 3) Obtain the top sheet and repeat the tasks outlined in  for the top sheet. 
-    If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
+    If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a         force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
 
 4) Locate the duvet and the duvet cover to enable you to make the fitted duvet. 
    - a) Place the duvet into the duvet cover.
