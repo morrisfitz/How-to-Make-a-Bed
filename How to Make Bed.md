@@ -57,7 +57,8 @@ Please note that there is an optional instruction which can be considered, as pe
 
 <details>
   <summary>Mattress Protector (Optional)</summary>
- Retrieve the mattress protector and place the side with the manufacturer tag down onto the mattress. 
+ 
+  Retrieve the mattress protector and place the side with the manufacturer tag down onto the mattress. 
 
    1. Hold one of the four fasteners of the mattress protector.
    2. Pull the fastener towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
