@@ -62,7 +62,7 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    - a) Acquire the first pillow and place it into one of the pillow cases.
    - b) Fold the pillow flap over the pillow. 
    - c) Fluff the fitted pillow to evenly distribute the pillow contents. 
-   - d) Repeat steps a-c for the second pillow and the remaining pillow case. 
+   - d) Repeat steps a to c for the second pillow and the remaining pillow case. 
 
 8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between the top of the fitted duvet and the headboard of the bed. 
 
