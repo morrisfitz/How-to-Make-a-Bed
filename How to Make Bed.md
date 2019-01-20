@@ -15,7 +15,7 @@ The goal of this document is to provide you with instructions that will enable y
 
 # Prerequisites: 
 --------------
-A number of prerequisites must be followed prior to proceeding with the formal [Instructions](#bed-making-instructions).
+A number of prerequisites must be followed prior to making the bed [Instructions](#bed-making-instructions).
 
 ## Necessary Materials
 
@@ -48,7 +48,7 @@ Please note that there is an optional instruction which can be considered, as pe
 
    1. Hold one of the four fasteners of the mattress protector.
    2. Pull the fastener towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
-   3. Repeat steps 1) and 2) for each fastener.
+   3. Repeat steps 1 and 2 for each fastener.
 
 </details>
 
@@ -58,9 +58,9 @@ Retrieve the fitted sheet and proceed through the following steps:
 
    1. Hold one of the four corners of the sheet.
    2. Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress. 
-   3. Repeat steps 1) and 2) for each of the other corners. 
+   3. Repeat steps 1 and 2 for each of the other corners. 
 
-To verify a correct fit, examine each corner of the fitted sheet to ensure they are sitting tightly under the mattress.
+To verify a correct fit, examine each corner of the fitted sheet to ensure they are placed tightly under the mattress.
    
 ## Top Sheet 
 
@@ -68,11 +68,11 @@ Retrieve the top sheet and proceed through the following steps:
 
    1. Hold one of the four corners of the sheet.
    2. Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress. 
-   3. Repeat steps 1) and 2) for each of the other corners. 
+   3. Repeat steps 1 and 2 for each of the other corners. 
 
    If desired, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert
-   a force suitable to remove the creases. To verify a correct fit, examine each corner of the top sheet to ensure they are correctly tightly 
-   under the mattress.
+   a force suitable to remove the creases. To verify a correct fit, examine each corner of the top sheet to ensure they are positioned  
+   tightly under the mattress.
 
 ##  Duvet
 
@@ -104,7 +104,6 @@ Take the edge of the top sheet at the top of the bed and neatly fold it over the
 
 ## Pillow
 
-
 Retrieve the two pillows and two pillow covers and proceed through this section
 
 ### Pillow Cover
@@ -114,7 +113,7 @@ Retrieve the two pillows and two pillow covers and proceed through this section
    1. Acquire the first pillow and place it into one of the pillow cases.
    2. Fold the pillow flap over the pillow. 
    3. Fluff the fitted pillow to evenly distribute the pillow contents. 
-   4. Repeat steps 1) to 3) for the second pillow and the remaining pillow case. 
+   4. Repeat steps 1 to 3 for the second pillow and the remaining pillow case. 
 
 ### Pillow Placement
 
@@ -122,11 +121,9 @@ Complete the action of making the bed by laying each pillow flat on the head of 
 
 # Conclusion:
 
-
 Congratulations on achieving your goal of making a bed.
 
 # Contact Details:
-
 
 > Author's Name: Darragh Fitzmaurice
 
