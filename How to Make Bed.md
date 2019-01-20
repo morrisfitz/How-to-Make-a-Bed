@@ -38,9 +38,9 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    - c) Repeat steps a and b for each fastener.
    
 2) Retrieve the fitted sheet or flat sheet. 
-   - a) Hold one of the four corners of the sheet.
-   - b) Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress. 
-   - c) Repeat steps a and b for each of the other corners. 
+   * a) Hold one of the four corners of the sheet.
+   * b) Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress. 
+   * c) Repeat steps a and b for each of the other corners. 
    
 3) Obtain the top sheet and repeat the tasks outlined in  for the top sheet. 
     If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a         force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
