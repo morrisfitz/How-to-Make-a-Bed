@@ -43,8 +43,7 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    * c) Repeat steps a and b for each of the other corners. 
    
 3) Obtain the top sheet and repeat the tasks outlined in  for the top sheet. 
-   If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a   
-   force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under 
+   <p>If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert              a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under 
    the mattress.
 
 4) Locate the duvet and the duvet cover to enable you to make the fitted duvet. 
@@ -67,7 +66,7 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    - c) Fluff the fitted pillow to evenly distribute the pillow contents. 
    - d) Repeat steps a to c for the second pillow and the remaining pillow case. 
 
-8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between the top of the fitted duvet and the headboard of the bed. 
+8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between   &lt;p&gt;T the top of the fitted duvet and the headboard of the bed. 
 
 Conclusion:
 -----------
