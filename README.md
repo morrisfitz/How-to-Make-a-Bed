@@ -38,6 +38,7 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    - c) Repeat steps a and b for each fastener.
 
 2) Retrieve the fitted sheet or flat sheet.
+
     - a) Hold one of the four corners of the sheet.
     
     - b) Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress.
