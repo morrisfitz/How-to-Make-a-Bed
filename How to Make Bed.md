@@ -5,7 +5,20 @@ How to Make a Bed
 - [Goal](#goal)
 - [Prerequisites](#prerequisites)
   * [Necessary Materials](#necessary-materials)
-
+  * [Bed State](#bed-state)
+ - [Bed Making Instructions](#bed-making-instructions) 
+  * [Fitted Sheet](#fitted-sheet)
+  * [Top Sheet](#top-sheet)
+  * [Duvet](#duvet)
+  +[Duvet Cover](#duvet-cover)
+  +[Duvet Placement](#duvet placement)
+   * [Sheet Presentation](#sheet-presentation)
+   * [Pillow](#pillow)
+   +[Pillow Sheet](#pillow-sheet)
+   +[Pillow Placement](#pillow-placement)
+ -[Conclusion](#conclusion)
+ -[Contact Details](#contact-details)
+   
 
 # Goal:
 --------
