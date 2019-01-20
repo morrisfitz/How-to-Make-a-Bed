@@ -96,7 +96,7 @@ Taking the [fitted duvet](#duvet-cover), place the sealed-button end of the fitt
    1. Check that the duvet overhangs evenly between the left and right side of the mattress. 
    2. Move the bottom of the duvet downwards to enable a 6-inch gap to form from the top of the duvet to the head of the 
         bed.
-   3. Remove any creases similiar to the actions outlined in step 3. 
+   3. Remove any creases similiar to the actions performed for the [top sheet](#fitted-sheet). 
 
 ## Sheet Presentation
 
