@@ -49,7 +49,6 @@ Please ensure that the items listed are clean and that they are of the correct d
 Prior to making the bed ensure that you remove all bedding items from the mattress, leaving only the exposed mattress resting on top of the bed frame. 
 
 
-
 # Bed Making Instructions:
 -------------
 
@@ -57,6 +56,7 @@ Please note that there is an optional instruction which can be considered, as pe
 
 <details>
   <summary>Mattress Protector (Optional)</summary>
+ 
  Retrieve the mattress protector and place the side with the manufacturer tag down onto the mattress. 
 
    1. Hold one of the four fasteners of the mattress protector.
