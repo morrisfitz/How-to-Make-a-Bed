@@ -43,7 +43,9 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    * c) Repeat steps a and b for each of the other corners. 
    
 3) Obtain the top sheet and repeat the tasks outlined in  for the top sheet. 
-    If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a         force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under the mattress.
+   If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert a   
+   force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under 
+   the mattress.
 
 4) Locate the duvet and the duvet cover to enable you to make the fitted duvet. 
    - a) Place the duvet into the duvet cover.
@@ -53,7 +55,8 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
 
 5) Place the sealed-button end of the fitted duvet towards the bottom of the mattress.
    - a) Check that the duvet overhangs evenly between the left and right side of the mattress. 
-   - b) Move the bottom of the duvet downwards to enable a 6-inch gap to form from the top of the duvet to the head of the bed.
+   - b) Move the bottom of the duvet downwards to enable a 6-inch gap to form from the top of the duvet to the head of the 
+        bed.
    - c) Remove any creases similiar to the actions outlined in step 3. 
 
 6) Take the edge of the top sheet at the top of the bed and neatly fold it over the top-edge of the fitted duvet. 
