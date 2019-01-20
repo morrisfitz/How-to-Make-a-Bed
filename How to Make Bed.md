@@ -38,13 +38,14 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    - c) Repeat steps a and b for each fastener.
    
 2) Retrieve the fitted sheet or flat sheet. 
-   * a) Hold one of the four corners of the sheet.
-   * b) Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress. 
-   * c) Repeat steps a and b for each of the other corners. 
+   - a) Hold one of the four corners of the sheet.
+   - b) Pull the corner towards its matching corner of the mattress and tuck it tightly under that corner of the mattress. 
+   - c) Repeat steps a and b for each of the other corners. 
    
 3) Obtain the top sheet and repeat the tasks outlined in  for the top sheet. 
-   <p>If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert              a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly under 
-   the mattress.
+   If required, apply pressure to any creases on the top sheet by placing the palm of your hand on a creased area and exert
+   a force suitable to remove the creases; next, examine each corner of the top sheet to ensure they are correctly tightly 
+   under the mattress.
 
 4) Locate the duvet and the duvet cover to enable you to make the fitted duvet. 
    - a) Place the duvet into the duvet cover.
@@ -66,7 +67,8 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
    - c) Fluff the fitted pillow to evenly distribute the pillow contents. 
    - d) Repeat steps a to c for the second pillow and the remaining pillow case. 
 
-8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between   &lt;p&gt;T the top of the fitted duvet and the headboard of the bed. 
+8) Complete the action of making the bed by laying each pillow flat on the head of the bed; this fills the gap created between 
+   the top of the fitted duvet and the headboard of the bed. 
 
 Conclusion:
 -----------
