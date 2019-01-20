@@ -10,14 +10,14 @@ How to Make a Bed
   * [Fitted Sheet](#fitted-sheet)
   * [Top Sheet](#top-sheet)
   * [Duvet](#duvet)
-  +[Duvet Cover](#duvet-cover)
-  +[Duvet Placement](#duvet placement)
+  + [Duvet Cover](#duvet-cover)
+  + [Duvet Placement](#duvet placement)
    * [Sheet Presentation](#sheet-presentation)
    * [Pillow](#pillow)
-   +[Pillow Sheet](#pillow-sheet)
-   +[Pillow Placement](#pillow-placement)
- -[Conclusion](#conclusion)
- -[Contact Details](#contact-details)
+   + [Pillow Sheet](#pillow-sheet)
+   + [Pillow Placement](#pillow-placement)
+ - [Conclusion](#conclusion)
+ - [Contact Details](#contact-details)
    
 
 # Goal:
