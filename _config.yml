@@ -5,7 +5,3 @@ description: Feel free to explore my website.
 plugins:
   - jemoji
 
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - lax_spacing
