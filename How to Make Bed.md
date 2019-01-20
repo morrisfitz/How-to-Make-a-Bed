@@ -69,7 +69,7 @@ Please note that step 1 is marked as optional [See Prerequisities](#Anchor1).
 Conclusion:
 -----------
 
-Congratulations on achieving your goal :trophy:! You have succesfully made your bed.
+Congratulations on achieving your goal :trophy: .You have succesfully made your bed.
 
 Contact Details:
 -----------
