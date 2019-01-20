@@ -11,7 +11,7 @@ How to Make a Bed
   * [Top Sheet](#top-sheet)
   * [Duvet](#duvet)
   + [Duvet Cover](#duvet-cover)
-  + [Duvet Placement](#duvet placement)
+  + [Duvet Placement](#duvet-placement)
    * [Sheet Presentation](#sheet-presentation)
    * [Pillow](#pillow)
    + [Pillow Sheet](#pillow-sheet)
